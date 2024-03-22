@@ -2,7 +2,7 @@ import csv
 
 file_name = ''
 table_output = ''
-yes_output = ['1', 'дА', 'да', 'Да']
+yes_output = ['1', 'дА', 'да', 'Да', 'ДА']
 new_file_name = ''
 date_time_for_table = []
 
